@@ -12,6 +12,9 @@ This repository contains the data and derived outputs used in the paper:
 - Document types: **Article** and **Proceedings Paper**
 - Language: **English**
 
+### Search queries
+Exact Scopus and Web of Science query strings are provided in `queries.md`.
+
 ## Corpus construction (PRISMA-guided accounting)
 1. Records were retrieved from Scopus and Web of Science using boolean queries designed around:
    - AI methods (e.g., machine learning, deep learning, federated learning, XAI)
