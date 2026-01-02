@@ -57,7 +57,8 @@ Resulting sub-corpora (multi-label allowed):
 ### Figures (black & white for conference submission)
 - `Thematic Map - Author's keywords - TRANSPORT B&W.png`
 - `Thematic Map - Author's keywords - WATER B&W.png`
-(plus any Energy B/W figure included in the paper)
+- `Thematic Evolution - ENERGY B&W.png`
+- `Thematic Map - ENERGY B&W.png`
 
 ## How to reproduce (high-level)
 1. Import the Scopus/WoS collections into Biblioshiny/bibliometrix.
