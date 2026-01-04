@@ -72,3 +72,4 @@ Resulting sub-corpora (multi-label allowed):
 
 ## Notes
 - This repository is intended to provide access to the merged corpus and derived tables used to generate figures and results in the paper.
+- Deduplication evidence/logs are available in `deduplication_log.md`.
